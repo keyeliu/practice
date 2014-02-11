@@ -1,4 +1,5 @@
 <person>
 	<firstname>David</firstname>
 	<lastname>Liu</lastname>
+	<age>35</age>
 </person>
